@@ -4,6 +4,14 @@ A portfolio of GitHub Projects created by Karen Khalifah
 <a href="https://www.linkedin.com/in/karen-khalifah/" target="_blank">LinkedIn</a> <br>
 <a href="https://www.behance.net/karenkhali07d1" target="_blank">Graphic Design Portfolio</a>
 
+Angular:  
+
+Rijks Museum Api Application:
+An application which makes an API call to the Rijks Museum Database and returns Json data. 
+Live Site <a href = "https://kkhalifah.github.io/Rijks-Museum-API/"></a>
+GitHub Code: <a href = "https://github.com/kkhalifah/Rijks-Museum-API"></a>
+
+
 Websites:
 
 Mobile Apps:
@@ -11,7 +19,5 @@ Mobile Apps:
 HTML/CSS:
 
 Bootstrap:
-
-Angular:
 
 Jquery:
