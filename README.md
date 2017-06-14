@@ -8,8 +8,8 @@ Angular:
 
 Rijks Museum Api Application:
 An application which makes an API call to the Rijks Museum Database and returns Json data. 
-Live Site <a href = "https://kkhalifah.github.io/Rijks-Museum-API/"></a>
-GitHub Code: <a href = "https://github.com/kkhalifah/Rijks-Museum-API"></a>
+<a href="https://kkhalifah.github.io/Rijks-Museum-API/">Live Site</a> <br>
+<a href="https://github.com/kkhalifah/Rijks-Museum-API">GitHub Code</a>
 
 
 Websites:
