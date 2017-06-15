@@ -17,13 +17,17 @@ An application with two views, which makes an API call to test the value of a wo
 <a href="https://github.com/kkhalifah/Final-Project">GitHub Code</a>
 
 Ticket Reservation App:
-Application which reserves guests and scopes the information to the page.
+Application which reserves guests and scopes the information to the page.<br>
 <a href="https://kkhalifah.github.io/reservation-ticket-app/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/reservation-ticket-app">GitHub Code</a>
 
 
 
 Websites:
+
+Wordpress:
+
+Email Marketing:
 
 Mobile Apps:
 
