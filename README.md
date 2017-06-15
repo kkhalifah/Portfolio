@@ -12,9 +12,15 @@ An application which makes an API call to the Rijks Museum Database and returns 
 <a href="https://github.com/kkhalifah/Rijks-Museum-API">GitHub Code</a>
 
 Swear Jar App:
-An application with two views, which makes an API call to test the value of a word.<br>
+An application with two views, which makes an API call to test the value of a word and stores the values in a separate view.<br>
 <a href="https://kkhalifah.github.io/Final-Project/#!/index">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/Final-Project">GitHub Code</a>
+
+Ticket Reservation App:
+Application which reserves guests and scopes the information to the page.
+<a href="https://kkhalifah.github.io/reservation-ticket-app/">Live Site</a> <br>
+<a href="https://github.com/kkhalifah/reservation-ticket-app">GitHub Code</a>
+
 
 
 Websites:
