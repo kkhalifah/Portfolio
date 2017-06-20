@@ -22,7 +22,7 @@ Application which reserves guests and scopes the information to the page.<br>
 <a href="https://github.com/kkhalifah/reservation-ticket-app">GitHub Code</a>
 
 
-
+<h4> Coming soon..... check out my repo for inprocess examples. </h4>
 Websites:
 
 Wordpress:
