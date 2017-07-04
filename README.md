@@ -6,23 +6,23 @@ A portfolio of GitHub Projects created by Karen Khalifah
 
 <h4>AngularJS:</h4>  
 
-<h5>Rijks Museum Api Application:</h5>
+<strong>Rijks Museum Api Application:</strong>
 An application which makes an API call to the Rijks Museum Database and returns Json data. <br>
 <a href="https://kkhalifah.github.io/Rijks-Museum-API/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/Rijks-Museum-API">GitHub Code</a>
 
-<h5>Swear Jar App:</h5>
+<strong>Swear Jar App:</strong>
 An application with two views, which makes an API call to test the value of a word and stores the values in a separate view.<br>
 <a href="https://kkhalifah.github.io/Final-Project/#!/index">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/Final-Project">GitHub Code</a>
 
-<h5>Ticket Reservation App:</h5>
+<strong>Ticket Reservation App:</strong>
 Application which reserves guests and scopes the information to the page.<br>
 <a href="https://kkhalifah.github.io/reservation-ticket-app/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/reservation-ticket-app">GitHub Code</a>
 
 <h4>Websites HTML/CSS/Bootstrap:</h4>
-<h5>Portfolio Site</h5>
+<strong>Portfolio Site</strong>
 Portfolio website- first website ever built.<br>
 <a href="https://kkhalifah.github.io/Khalifah-Portfolio-First/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/Khalifah-Portfolio-First">GitHub Code</a>
