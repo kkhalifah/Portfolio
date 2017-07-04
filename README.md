@@ -21,21 +21,24 @@ Application which reserves guests and scopes the information to the page.<br>
 <a href="https://kkhalifah.github.io/reservation-ticket-app/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/reservation-ticket-app">GitHub Code</a>
 
+<strong>Haiku Random Generator:</strong>  <br>
+Application which generates random poems using Javascript and Angular.<br>
+<a href="https://kkhalifah.github.io/Haiku-Random-Generator/">Live Site</a> <br>
+<a href="https://github.com/kkhalifah/Haiku-Random-Generator">GitHub Code</a>
+
 <h2>Websites HTML/CSS/Bootstrap:</h2>
 <strong>Portfolio Site</strong>  <br>
 Portfolio website- first website ever built.<br>
 <a href="https://kkhalifah.github.io/Khalifah-Portfolio-First/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/Khalifah-Portfolio-First">GitHub Code</a>
 
+<h2>Wordpress: (in process)</h2>
+<strong>Travel Blog</strong>  <br>
+Basic blog with Wordpress<br>
+<a href="https://karenkhalifah.wordpress.com/">Live Site</a>
+
 <h4> Coming soon..... check out my repo for inprocess examples. </h4>
-Websites:
 
-Wordpress:
-
-Email Marketing:
-
-Mobile Apps:
-
-
+Email Marketing Templates:
 
 Jquery:
