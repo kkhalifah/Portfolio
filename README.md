@@ -25,7 +25,7 @@ Application which reserves guests and scopes the information to the page.<br>
 <h5>Portfolio Site</h5>
 Portfolio website- first website ever built.<br>
 <a href="https://kkhalifah.github.io/Khalifah-Portfolio-First/">Live Site</a> <br>
-<a href="https://github.com/kkhalifah/Khalifah-Portfolio-Deliverable-1-2-Final">GitHub Code</a>
+<a href="https://github.com/kkhalifah/Khalifah-Portfolio-First">GitHub Code</a>
 
 <h4> Coming soon..... check out my repo for inprocess examples. </h4>
 Websites:
