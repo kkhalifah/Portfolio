@@ -26,6 +26,11 @@ Application which generates random poems using Javascript and Angular.<br>
 <a href="https://kkhalifah.github.io/Haiku-Random-Generator/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/Haiku-Random-Generator">GitHub Code</a>
 
+<strong>Mad Libs:</strong>  <br>
+Application which creates a Mad Lib and uses Angular views.<br>
+<a href="https://kkhalifah.github.io/Mad-Libs/#!/form">Live Site</a> <br>
+<a href="https://github.com/kkhalifah/Mad-Libs">GitHub Code</a>
+
 <h2>Websites HTML/CSS/Bootstrap:</h2>
 <strong>Portfolio Site</strong>  <br>
 Portfolio website- first website ever built.<br>
