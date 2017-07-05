@@ -35,7 +35,6 @@ Application which creates a Mad Lib and uses Angular views.<br>
 <strong>Portfolio Site</strong>  <br>
 Portfolio website- first website ever built.<br>
 <a href="https://kkhalifah.github.io/Khalifah-Portfolio-First/">Live Site</a> <br>
-<a href="https://github.com/kkhalifah/Khalifah-Portfolio-First">GitHub Code</a>
 
 <h2>Wordpress: (in process)</h2>
 <strong>Travel Blog</strong>  <br>
