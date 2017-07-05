@@ -31,9 +31,14 @@ Application which creates a Mad Lib and uses Angular views.<br>
 <a href="https://kkhalifah.github.io/Mad-Libs/#!/form">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/Mad-Libs">GitHub Code</a>
 
+<strong>Jquery: </strong> <br>
+Group Project for a theater seat reservation app using Jquery. <br>
+<a href="https://kkhalifah.github.io/seatReservationApp/">Live Site</a> <br>
+<a href="https://github.com/kkhalifah/seatReservationApp">GitHub Code</a>
+
 <h2>Websites HTML/CSS/Bootstrap:</h2>
 <strong>Portfolio Site</strong>  <br>
-Portfolio website- first website ever built.<br>
+Portfolio website- first website/code ever built.<br>
 <a href="https://kkhalifah.github.io/Khalifah-Portfolio-First/">Live Site</a> <br>
 
 <h2>Wordpress: (in process)</h2>
@@ -42,7 +47,5 @@ Basic blog with Wordpress<br>
 <a href="https://karenkhalifah.wordpress.com/">Live Site</a>
 
 <h4> Coming soon..... check out my repo for inprocess examples. </h4>
-
 Email Marketing Templates:
 
-Jquery:
