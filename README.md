@@ -41,6 +41,11 @@ Group Project for a theater seat reservation app using Jquery. <br>
 Portfolio website- first website/code ever built.<br>
 <a href="https://kkhalifah.github.io/Khalifah-Portfolio-First/">Live Site</a> <br>
 
+<strong>Restaurant website (fake)</strong>  <br>
+Website(fake)created for a real restaurant with a challenging original website using HTML/CSS/Bootstrap (in-process) <br>
+<a href="https://kkhalifah.github.io/Italian-Restaurant-fake/index.html/">Live Site</a> <br>
+<a href="https://github.com/kkhalifah/Italian-Restaurant-fake">GitHub Code</a>
+
 <h2>Wordpress: (in process)</h2>
 <strong>Travel Blog</strong>  <br>
 Basic blog with Wordpress<br>
