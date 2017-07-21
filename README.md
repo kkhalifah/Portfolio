@@ -43,8 +43,9 @@ Portfolio website- first website/code ever built.<br>
 
 <strong>Restaurant website (fake)</strong>  <br>
 Website(fake)created for a real restaurant with a challenging original website using HTML/CSS/Bootstrap  <br>
-(in-process) <a href="https://kkhalifah.github.io/Italian-Restaurant-fake/index.html/">Live Site</a> <br>
+(in-process) <a href="https://kkhalifah.github.io/Italian-Restaurant-fake/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/Italian-Restaurant-fake">GitHub Code</a>
+
 
 <h2>Wordpress: (in process)</h2>
 <strong>Travel Blog</strong>  <br>
