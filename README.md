@@ -2,12 +2,13 @@
 A portfolio of GitHub Projects created by Karen Khalifah. Please check out my repo for additional projects.
 
 <a href="https://www.linkedin.com/in/karen-khalifah/" target="_blank">LinkedIn</a> <br>
-<a href="https://www.behance.net/karenkhali07d1" target="_blank">Graphic, Development &amp; Motion Graphic Design Portfolio</a> <br>
+<a href="https://www.behance.net/karenkhali07d1" target="_blank">Graphic, Development &amp; Motion Graphic Design Portfolio</a> 
+<br>
 
-<h2>Websites HTML/CSS/Bootstrap:</h2>
-<strong>Food Delivery SIte</strong>  <br>
+<strong>Food Delivery Website:</strong>  <br>
 Responsive Page built with HTLM CSS JavaScript Jquery<br>
 <a href="https://kkhalifah.github.io/UdemytutorialOmnifood/">Live Site</a> <br>
+<a href="https://github.com/kkhalifah/UdemytutorialOmnifood">GitHub Code</a>
 
 <strong>Rijks Museum Api Application:</strong> <br>
 An application which makes an API call to the Rijks Museum Database and returns Json data. <br>
@@ -39,7 +40,7 @@ Group Project for a theater seat reservation app using Jquery. <br>
 <a href="https://kkhalifah.github.io/seatReservationApp/">Live Site</a> <br>
 <a href="https://github.com/kkhalifah/seatReservationApp">GitHub Code</a>
 
-<h2>Websites HTML/CSS/Bootstrap:</h2>
+<h2>First Site Built:</h2>
 <strong>Portfolio Site</strong>  <br>
 Portfolio website- first website/code ever built.<br>
 <a href="https://kkhalifah.github.io/Khalifah-Portfolio-First/">Live Site</a> <br>
