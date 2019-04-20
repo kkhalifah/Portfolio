@@ -2,9 +2,12 @@
 A portfolio of GitHub Projects created by Karen Khalifah. Please check out my repo for additional projects.
 
 <a href="https://www.linkedin.com/in/karen-khalifah/" target="_blank">LinkedIn</a> <br>
-<a href="https://www.behance.net/karenkhali07d1" target="_blank">Graphic Design Portfolio</a>
+<a href="https://www.behance.net/karenkhali07d1" target="_blank">Graphic, Development &amp; Motion Graphic Design Portfolio</a>
 
-<h2>AngularJS:</h2>  
+<h2>Websites HTML/CSS/Bootstrap:</h2>
+<strong>Food Delivery SIte</strong>  <br>
+Responsive Page built with HTLM CSS JavaScript Jquery<br>
+<a href="https://kkhalifah.github.io/UdemytutorialOmnifood/">Live Site</a> <br>
 
 <strong>Rijks Museum Api Application:</strong> <br>
 An application which makes an API call to the Rijks Museum Database and returns Json data. <br>
@@ -40,18 +43,4 @@ Group Project for a theater seat reservation app using Jquery. <br>
 <strong>Portfolio Site</strong>  <br>
 Portfolio website- first website/code ever built.<br>
 <a href="https://kkhalifah.github.io/Khalifah-Portfolio-First/">Live Site</a> <br>
-
-<strong>Restaurant website (fake)</strong>  <br>
-Website(fake)created for a real restaurant with a challenging original website using HTML/CSS/Bootstrap  <br>
-(in-process) <a href="https://kkhalifah.github.io/Italian-Restaurant-fake/">Live Site</a> <br>
-<a href="https://github.com/kkhalifah/Italian-Restaurant-fake">GitHub Code</a>
-
-
-<h2>Wordpress: (in process)</h2>
-<strong>Travel Blog</strong>  <br>
-Basic blog with Wordpress<br>
-<a href="https://karenkhalifah.wordpress.com/">Live Site</a>
-
-<h4> Coming soon..... check out my repo for inprocess examples. </h4>
-Email Marketing Templates:
 
