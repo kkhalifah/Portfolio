@@ -2,7 +2,7 @@
 A portfolio of GitHub Projects created by Karen Khalifah. Please check out my repo for additional projects.
 
 <a href="https://www.linkedin.com/in/karen-khalifah/" target="_blank">LinkedIn</a> <br>
-<a href="https://www.behance.net/karenkhalifah" target="_blank">Graphic, Development &amp; Motion Graphic Design Portfolio</a> 
+<a href="https://karenkhalifah.com/" target="_blank">Design Portfolio</a> 
 <br>
 
 <strong>Food Delivery Website:</strong>  <br>
